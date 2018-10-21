@@ -12,10 +12,10 @@ now put 'on' on your device to on the led and 'off' to off
 
 
 
+if the above not work then do this
 
 connect big pin to 12
 and small pin to 9
-if the above not work then run
 sudo python telegram2.py
 now put 'on' on your device to on the led and 'off' to off 
 
